@@ -1,0 +1,3 @@
+git stash		从工作目录提交到暂存区
+git pull		从远程仓库拉取到工作目录
+git stash pop	从暂存区拉到工作目录合并
